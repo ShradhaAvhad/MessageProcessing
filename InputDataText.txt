@@ -1,0 +1,10 @@
+apple at 10p
+banana at 5p
+20 sales of apples at 10p each
+apple at 10p
+banana at 5p
+20 sales of apples at 10p each
+apple at 10p
+strawberry at 5p
+20 sales of strawberries at 5p each
+apple at 10p
