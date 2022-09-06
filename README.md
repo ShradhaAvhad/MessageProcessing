@@ -19,3 +19,8 @@ SALES AND MESSAGES
    I. Message Type 1 – contains the details of 1 sale e.g., apple at 10p
    II. Message Type 2 – contains the details of a sale and the number of occurrences of that sale.
       e.g., 20 sales of apples at 10p each.
+
+Running Application
+
+Go to src/main/java/com/messageing/MessageProcessingApplication.java
+Run as Java application -> MessageProcessingApplication.java
